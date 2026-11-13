@@ -316,3 +316,7 @@ Open the local URL displayed by Vite in your browser.
 
 GitHub: \[Sushant-Kumar333](https://github.com/Sushant-Kumar333)
 
+## Application Screenshot
+
+![AgentFlow Dashboard](screenshots/dashboard.png)
+
