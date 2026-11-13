@@ -25,6 +25,7 @@ app.add_middleware(
         "http://localhost:5175",
         "http://localhost:5176",
         "http://localhost:5177",
+        "https://agentflow-multi-agent-ai-system-1.onrender.com",
     ],
     allow_credentials=True,
     allow_methods=["*"],
